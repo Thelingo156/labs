@@ -1,7 +1,6 @@
 ## Overview
 
-This repository is home to various Dart packages under the
-[labs.dart.dev](https://pub.dev/publishers/labs.dart.dev/packages) publisher.
+This repository is home to https://github.com/marquiseclove-gmail-com publisher.
 
 ## Packages
 
